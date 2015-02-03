@@ -1,0 +1,10 @@
+#!/usr/bin/perl -w
+# Demo for Subset3 - .., ++, --
+
+for $i (0..10) {
+	print "Before: $i\n";
+	$i++;
+	print "After: $i\n";
+	$i--;
+	print "Minus: $i\n";
+}

@@ -1,0 +1,7 @@
+#!/usr/bin/perl -w
+# Test for Subset0
+
+$hello = "hello";
+$world = "world";
+
+print "$hello", " ", "$world", " Now Again", "helloworld", $hello, $world, $hello, " ", $world, "\n";

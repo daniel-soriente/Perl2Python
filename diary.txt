@@ -1,0 +1,13 @@
+|DATE	|START	|STOP	|ACTIVITY		|COMMENTS										|
+|13/09	|15:00	|16:00	|Planning		|Read over spec and planned								|
+|15/09	|16:00	|16:30	|Git			|Got Starting point from spec and made git repository					|
+|17/09	|22:00	|22:30	|Subset0		|Started and Finished Subset 0								|
+|22/09	|14:00	|17:00	|Subset0 and Testing	|Created Shell script for testing. Started Subset1					|
+|24/09	|11:00	|14:00	|Susbet1 and Editing	|Finished Subset1 and edited code							|
+|24/09	|19:30	|21:30	|Subset2 and Subset3	|Wrote code on subset2 and 3								|
+|27/09	|14:45	|15:15	|Refining		|Added more detail to subsets0 and 1. Plannning to reformat assignment			|
+|2/10	|11:00	|15:00	|Major Work		|Reformatted Assignment(use of Arrays) Considered more cases in subset 0,1 and 2	| 
+|3/10	|12:00	|18:00	|Subset3		|Major work on subset3									|
+|4/10	|10:00	|14:00	|Cases			|Dealt with more cases in each subset and started subset 4				|
+|7/10	|10:00	|22:00	|Subset			|Finished Subset4									|
+|9/10	|11:00	|23:59	|Finished		|Finished Assignment, Cleaned up, tests and demos					|

@@ -1,0 +1,16 @@
+#!/usr/bin/perl -w
+
+$string1 = "Hello\n";
+$string2 = "HellodiwejdijewFO\n";
+$n = 7;
+
+if ($string1 eq $string2) {
+	print "Match\n";
+	if ($n > 5) {
+		print "Hello\n";
+	} else {
+		print "Goodbye\n";
+	}
+} elsif ($string1 ne $string2) {
+	print "No Match\n";
+}

@@ -1,0 +1,6 @@
+#!/usr/bin/python2.7 -u
+zero = 0
+four = 4
+for i in xrange(zero, four+1):
+    print i
+
